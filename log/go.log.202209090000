@@ -1,0 +1,2 @@
+{"file":"D:/goproject/go-web/initialize/config.go:23","func":"go-web/initialize.InitConfig","level":"info","msg":"\u0026{192.168.0.2 8848 c1872978-d51c-4188-a497-4e0cd20b97d5 nacos nacos user-web.json pro}","time":"2022-09-09T15:51:39+08:00"}
+{"file":"D:/goproject/go-web/initialize/config.go:28","func":"go-web/initialize.InitConfig","level":"info","msg":"\u0026{localhost 3306 test root root}","time":"2022-09-09T15:51:39+08:00"}
